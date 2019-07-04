@@ -4,6 +4,7 @@ import faker from "faker";
 import CommentDetail from "./CommentDetail";
 import ApprovalCard from "./ApprovalCard";
 import Message from "./Message";
+import Segment from "./Segment";
 
 const App = () => {
   return (
@@ -36,6 +37,16 @@ const App = () => {
           txt="Amazing"
         />
       </ApprovalCard>
+      <Segment
+        textOne="No documents are listed for this customer."
+        addButton="Add Document"
+        textTwo="Pellentesque habitant morbi tristique senectus et netus et malesuada
+      fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae,
+      ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam
+      egestas semper. Aenean ultricies mi vitae est. Mauris placerat
+      eleifend leo."
+        infoTag="For Your Information"
+      />
     </div>
   );
 };
