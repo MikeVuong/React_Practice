@@ -1,2 +1,4 @@
 # React_Practice
-Practice Notes for Learning React
+Practice with Props/Components
+
+![Image](screen.png)
