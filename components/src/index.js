@@ -3,10 +3,15 @@ import ReactDOM from "react-dom";
 import faker from "faker";
 import CommentDetail from "./CommentDetail";
 import ApprovalCard from "./ApprovalCard";
+import Message from "./Message";
 
 const App = () => {
   return (
     <div className="ui container comments">
+      <Message
+        header="Changes in Service"
+        text="We just updated our privacy policy here to better service our customers."
+      />
       <ApprovalCard>
         <CommentDetail
           author="sam"
