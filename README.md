@@ -1,4 +1,4 @@
-# React_Practice
+# Props_Practice
 Practice with Props/Components
 
 ![Image](screen.png)
