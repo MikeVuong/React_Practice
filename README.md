@@ -1,10 +1,15 @@
-# React_Practice
-Practice Notes for Learning React with each branch being a different subject
-Goal : E Commerce website for client use
+Practice with async calls and axios/fetch  
 
-* All node_modules files have been removed to save space, if needed to rerun the programs either do npm install/create another create-react-app and replace the src file*  
+Fetched data and displayed the data with an asynchronous call based on user input and placed said images into a gridview  
+  
 
-- Added initial component practice
-- Added props practice  
-- Added state/class based coding
+Example with cars
+![Image](car.png)  
+  
 
+Example with dogs
+![Image](dog.png)
+  
+  
+Example with flowers
+![Image](flower.png)
