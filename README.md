@@ -8,7 +8,7 @@ Example with cars
   
 
 Example with dogs
-![Image](dog.png)
+![Image](dogs.png)
   
   
 Example with flowers
