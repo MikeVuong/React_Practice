@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// Hidden
+// Hidden for security purposes
 const KEY = '';
 
 export default axios.create({
